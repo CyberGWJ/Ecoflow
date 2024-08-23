@@ -11,3 +11,5 @@ The assembly uses 3 cross support to connect 2 psu bases.  On the cross support 
 Look in the images folder for a better idea on assembly.  I will try to update this in the future.
 
 I printed in ASA with 40% infil.  Part are in the correct position to be printed.  No supports needed.
+
+https://github.com/CyberGWJ/Ecoflow/blob/main/dual%20powersupply/images/dual_powersupply.jpg
