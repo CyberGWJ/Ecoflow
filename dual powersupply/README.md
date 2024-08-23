@@ -14,6 +14,6 @@ I printed in ASA with 40% infil.  Part are in the correct position to be printed
 
 ![Dual Power Supplies](images/dual_powersupply.jpg?raw=true "Dual PSU")
 
-![Cnnections](images/dual_ps_connections.jpg?raw=true "Dual PSU")
+![Cnnections](images/dual_ps_connections.jpg?raw=true "Connections")
 
-![Connectors](images/connectors.jpg?raw=true "Dual PSU")
+![Connectors](images/connectors.jpg?raw=true "Connectors")
