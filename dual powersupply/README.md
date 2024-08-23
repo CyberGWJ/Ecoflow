@@ -12,4 +12,4 @@ Look in the images folder for a better idea on assembly.  I will try to update t
 
 I printed in ASA with 40% infil.  Part are in the correct position to be printed.  No supports needed.
 
-![Alt text](/images/dual_powersupplies.jpg?raw=true "Dual PSU")
+!(../images/dual_powersupply.jpg?raw=true "Dual PSU")
