@@ -10,7 +10,7 @@ The assembly uses 3 cross support to connect 2 psu bases.  On the cross support 
 
 I will try to update this in the future.
 
-I printed in ASA with 40% infil.  Part are in the correct position to be printed.  No supports needed.
+I printed in ASA with 40% infil.  Part are in the correct position to be printed.  No supports needed for brace and cross support.  Support are needed for the psu base.
 
 ![Dual Power Supplies](images/dual_powersupply.jpg?raw=true "Dual PSU")
 
