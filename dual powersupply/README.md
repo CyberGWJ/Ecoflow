@@ -2,6 +2,8 @@
 
 This is for mounting two power supplies to connect in serial for DC charging a Ecoflow Delta Pro.
 
+This is my design and feel free to modify.
+
 The main three printed parts are psu_base, psu_brace, and cross_support.
 
 NOTE: The wago is from Thingiverse user joochung.  The link is https://www.thingiverse.com/thing:2075219.
@@ -10,7 +12,7 @@ The assembly uses 3 cross support to connect 2 psu bases.  On the cross support 
 
 I will try to update this in the future.
 
-I printed in ASA with 40% infil.  Part are in the correct position to be printed.  No supports needed for brace and cross support.  Support are needed for the psu base.
+I printed in ASA with 40% infill.  Part are in the correct position to be printed.  No supports needed for brace and cross support.  Support are needed for the psu base.
 
 ![Dual Power Supplies](images/dual_powersupply.jpg?raw=true "Dual PSU")
 
