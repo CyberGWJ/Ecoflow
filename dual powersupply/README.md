@@ -6,7 +6,7 @@ This is my design and feel free to modify.
 
 The main three printed parts are psu_base, psu_brace, and cross_support.
 
-NOTE: The wago is from Thingiverse user joochung.  The link is https://www.thingiverse.com/thing:2075219.
+NOTE: The wago mount is from Thingiverse user joochung.  The link is https://www.thingiverse.com/thing:2075219.
 
 The assembly uses 3 cross support to connect 2 psu bases.  On the cross support by the connectors on the psu is where the wago gets added.  The psu brace goes between the two psu and mounts in the screw holes above the connectors and rear for additional support.
 
